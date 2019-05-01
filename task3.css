@@ -1,0 +1,29 @@
+.block
+    {height:600px;
+    width: 390px;
+    background-color:white;
+    padding: 20px;
+    margin: auto;
+    border-radius: 3px;
+    border:1px solid #fff;}
+body 
+    {background-color:#3598dc;
+    font-family: helvetica;
+    padding: 30px;}
+    
+p 
+.typetext 
+    {width:385px;
+    height: 40px;
+    }
+.bottun
+    {background-color: #3598dc;
+    color:white;
+    font-size: 15px;
+    width: 160px;
+    height: 40px;
+    border-radius:10%; }
+.end 
+    {color:white;
+   text-align: center;}
+.colortext {color: rgba(0,0,0,0.3)}
